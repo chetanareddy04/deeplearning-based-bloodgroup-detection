@@ -142,16 +142,16 @@ Screenshots of UI, predictions, and performance analysis are available in the `s
     │
     ├── static/
     │   └── test   
-    │       ├── sample_blood.jpg
-    │       └── sample_fingerprint.jpg
+    │       ├── sample blood.jpg
+    │       └── sample fingerprint.BPM
     │
     └── screenshots/
-        ├── blood_ui.png
-        ├── blood_prediction.png
-        ├── blood_performance.png
-        ├── fingerprint_ui.png
-        ├── fingerprint_prediction.png
-        └── fingerprint_performance.png
+        ├── blood input.png
+        ├── blood prediction.png
+        ├── blood performance.png
+        ├── fingerprint input.png
+        ├── fingerprint prediction.png
+        └── fingerprint performance.png
 
 
    
@@ -161,15 +161,18 @@ The deep learning models successfully classified blood groups from both blood sa
 
 The blood image–based approach showed more consistent and stable results due to clearer visual patterns, while the fingerprint-based approach produced promising results when high-quality images were provided.
 
-### 🔬 Blood Image–Based Results
-![Blood UI](screenshots/blood_ui.png)
-![Blood Prediction](screenshots/blood_prediction.png)
-![Blood Performance](screenshots/blood_performance.png)
+> **Note:** All outputs of the project are saved in the `screenshots` folder, organized as follows:  
+> 
+> **Blood images:**  
+> - `blood input.png` – input image provided to the model  
+> - `blood prediction.png` – model's predicted output 
+> - `blood performance.png` – performance evaluation   
+> 
+> **Fingerprint images:**  
+> - `fingerprint input.png` – input image provided to the model  
+> - `fingerprint prediction.png` – model's predicted output  
+> - `fingerprint performance.png` – performance evaluation 
 
-### 🔬 Fingerprint Image–Based Results
-![Fingerprint UI](screenshots/fingerprint_ui.png)
-![Fingerprint Prediction](screenshots/fingerprint_prediction.png)
-![Fingerprint Performance](screenshots/fingerprint_performance.png)
 
 ## ✅ Conclusion
 
@@ -198,7 +201,7 @@ Aspiring AI / Data Science / Machine Learning Engineer
 ## 📬 Contact
 
 - 📧 Email: chetanareddys71@gmail.com 
-- 💼 LinkedIn: [www.linkedin.com/in/sama-chetana-71142031b](https://)
+- 💼 LinkedIn: [https://www.linkedin.com/in/sama-chetana-71142031b]
 - 🐙 GitHub: [https://github.com/chetanareddy04](https://)
 
 
