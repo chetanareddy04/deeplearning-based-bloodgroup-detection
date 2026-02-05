@@ -1,0 +1,73 @@
+# =====================
+# Jupyter Notebook
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Python cache / compiled files
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================
+# Logs and outputs
+# =====================
+logs/
+results/
+output/
+*.log
+
+# =====================
+# Dataset files
+# =====================
+data/
+*.csv
+*.tsv
+*.json
+*.h5
+*.npy
+*.npz
+*.zip
+
+# =====================
+# Model weights / checkpoints
+# =====================
+*.pt
+*.pth
+*.ckpt
+*.hdf5
+*.pb
+*.tflite
+*.onnx
+
+# =====================
+# Virtual environments
+# =====================
+venv/
+env/
+.venv/
+ENV/
+.env/
+
+# =====================
+# Environment / dependency files
+# =====================
+Pipfile
+Pipfile.lock
+requirements.txt
+*.yaml
+*.yml
+
+# =====================
+# OS-specific files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Misc / temporary files
+# =====================
+*.tmp
+*.swp
