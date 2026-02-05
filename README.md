@@ -202,6 +202,6 @@ Aspiring AI / Data Science / Machine Learning Engineer
 
 - 📧 Email: chetanareddys71@gmail.com 
 - 💼 LinkedIn: [https://www.linkedin.com/in/sama-chetana-71142031b]
-- 🐙 GitHub: [https://github.com/chetanareddy04](https://)
+- 🐙 GitHub: [https://github.com/chetanareddy04]
 
 
